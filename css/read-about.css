@@ -1,0 +1,107 @@
+.read-about {
+    width: 100%;
+    background-color: #018381;
+    padding: 15px;
+}
+
+.read-about .parent {
+    padding: 40px 20px;
+}
+
+.read-about .parent {
+    width: 100%;
+    height: 100%;
+    padding: 40px 20px;
+}
+
+.read-about .parent .slider7 .swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.read-about .parent .slider7 .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.read-about .parent .slider7 .swiper-slide img {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.read-about .parent .title {
+    padding-bottom: 25px;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.read-about .parent .slider7 .swiper-slide .the-news {
+    width: 100%;
+    height: 100%;
+}
+
+.read-about .parent .slider7 .swiper-slide .the-news .caption {
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.read-about .parent .slider7 .swiper-slide .the-news a {
+    display: block;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.read-about .parent .slider7 .swiper-slide .the-news a .sub-title {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.read-about .parent .slider7 .swiper-slide .the-news a span {
+    display: flex;
+    font-size: 16px;
+    font-weight: 500;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    /*margin-bottom: 50px;*/
+}
+
+.read-about .parent .slider7 .swiper-slide .the-news:hover span {
+    text-decoration: underline;
+}
+
+/*      pagination buttons css*/
+.read-about .parent .slider7 .swiper-button-next {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: rgb(44, 44, 44);
+}
+
+.read-about .parent .slider7 .swiper-button-prev {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: rgb(44, 44, 44);
+}
+
+.read-about .parent .slider7 .swiper-button-next::after {
+    scale: 0.5;
+    color: rgb(224, 224, 224);
+}
+
+.read-about .parent .slider7 .swiper-button-prev::after {
+    scale: 0.5;
+    color: rgb(224, 224, 224);
+}

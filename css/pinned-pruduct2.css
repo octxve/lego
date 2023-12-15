@@ -1,0 +1,83 @@
+.pinned--product2 {
+    height: 420px;
+    padding: 127px 110px;
+    background: url("../images/pinned-product2.webp") no-repeat top center/cover;
+}
+
+.pinned--product2 .title {
+    width: 385px;
+    line-height: 50px;
+    color: #000000;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.pinned--product2 .caption {
+    line-height: 30px;
+    width: 480px;
+    color: #000000;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.pinned--product2 .purchase {
+    margin-top: 20px;
+    color: #FFFFFF;
+    height: 47px;
+    line-height: 47px;
+    background-color: #000000;
+    padding: 10px 18px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    column-gap: 10px;
+    justify-content: center;
+}
+
+.pinned--product2 .purchase svg {
+    fill: #FFFFFF;
+}
+
+.pinned--product2 .purchase:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.pinned--product2 .purchase:hover svg {
+    fill: #000000;
+}
+
+.pinned--product2 .learn-more {
+    margin-top: 20px;
+    color: #FFFFFF;
+    height: 47px;
+    line-height: 47px;
+    background-color: #000000;
+    padding: 10px 18px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    column-gap: 10px;
+    justify-content: center;
+}
+
+.pinned--product2 .links {
+    display: flex;
+    gap: 20px;
+}
+
+.pinned--product2 .learn-more svg {
+    fill: #FFFFFF;
+}
+
+.pinned--product2 .learn-more:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.pinned--product2 .learn-more:hover svg {
+    fill: #000000;
+}

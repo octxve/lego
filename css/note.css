@@ -1,0 +1,27 @@
+.note {
+    width: 100%;
+    padding: 40px 20px;
+    background-color: #FFFFFF;
+}
+
+.note .background {
+    background-color: #F2F2F2;
+    padding: 30px 20px;
+}
+
+.note .background .caption {
+    letter-spacing: 0.001rem;
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.note .background .caption .link {
+    color: #006DB7;
+    text-decoration: none;
+}
+
+.note .background .caption .link:hover {
+    text-decoration: underline;
+}
